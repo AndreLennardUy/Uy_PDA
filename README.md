@@ -9,8 +9,8 @@ pressing 2 to check if the given word is a palindrome
 
 # Balance Symbol Sample:
 
-.md Img\BalanceSymbol.jpg
+![balance symbol] (Img\BalanceSymbol.jpg)
 
 # Palindrome Sameple:
 
-.md Img\Palindrome.png
+![Palindrome](Img\Palindrome.png)
