@@ -9,7 +9,7 @@ pressing 2 to check if the given word is a palindrome
 
 # Balance Symbol Sample:
 
-![balance symbol] (Img\BalanceSymbol.jpg)
+![balance symbol](Img\BalanceSymbol.jpg)
 
 # Palindrome Sameple:
 
