@@ -3,14 +3,14 @@
 
 Push down automata program 
 
-pressing 1 to check if the given symbols is a balance parenthesis
+- pressing 1 to check if the given symbols is a balance parenthesis
 
-pressing 2 to check if the given word is a palindrome
+- pressing 2 to check if the given word is a palindrome
 
 # Balance Symbol Sample:
 
-![balance symbol](Img\BalanceSymbol.jpg)
+![balance symbol](Img/BalanceSymbol.jpg)
 
 # Palindrome Sameple:
 
-![Palindrome](Img\Palindrome.png)
+![Palindrome](Img/Palindrome.png)
